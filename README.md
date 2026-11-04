@@ -10,6 +10,8 @@
 PhysicsMate is a personal Android development project that brings together physics calculators, symbolic and numerical mathematics tools, and a small collection of built-in formula notes.
 
 > **Current codebase:** This repository is the refactored successor to the earlier [Physics-Mate](https://github.com/NoRancidIntentions/Physics-Mate) implementation. The newer version reorganizes the application around fragments, shared calculation utilities, and AndroidX navigation.
+>
+> Despite having a better app structure, the older app/repository has more features that are yet to be implemented here.
 
 ---
 
